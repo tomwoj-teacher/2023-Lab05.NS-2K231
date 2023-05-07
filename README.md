@@ -1,5 +1,6 @@
 # 2023-Lab05.NS-2K231
 
+
 # --------
 
 Lab05.NS - rozszrzony dla grup niestacjonarnych
